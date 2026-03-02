@@ -1,0 +1,6 @@
+{
+  "name": "daily-task-scheduler",
+  "version": "1.0.0",
+  "description": "Daily task scheduling application",
+  "main": "index.html"
+}
